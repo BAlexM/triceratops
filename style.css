@@ -1,0 +1,54 @@
+body{
+    background-color: #6a6f75;
+    padding-left: 3%;
+    padding-right: 3%;
+    color:  #ffffff;
+    text-align: justify;
+}
+.balkep{
+    box-shadow: 5px 5px 8px #1D1D4E;
+    margin-bottom: 3px;
+    margin-right: 15px;
+    float: left;
+    width: 230px;
+}
+.jobbkep{
+    box-shadow: 5px 5px 8px #1D1D4E;
+    width: 350px;
+    float:right
+}
+h1{
+    text-align: center;
+}
+a{
+    color: #5e39ad;
+}
+a:active{
+    color: #f70c0c;
+}
+a:checked{
+    color: #5e39ad;
+}
+.fejsor{
+    background-color: #1D1D4E;
+    text-align: center;
+    font-weight: bold; 
+}
+td{
+    border-right: 1px dashed #1D1D4E ;
+    border-left: 1px dashed  #1D1D4E ;
+    border-top: 1px dashed  #1D1D4E ;
+    border-bottom: 1px dashed #1D1D4E;
+}
+table{
+    box-shadow: 5px 5px 8px #1D1D4E;
+}
+.forras{
+    text-align: center;
+}
+.bal{
+    font-weight: bold;
+}
+.jobb{
+    font-style: italic;
+}
